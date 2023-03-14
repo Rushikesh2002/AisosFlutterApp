@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "770477538820",
+    "project_id": "aisos-flutter-project",
+    "storage_bucket": "aisos-flutter-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770477538820:android:076fcedcfdd454a29c7f51",
+        "android_client_info": {
+          "package_name": "com.example.aisos_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770477538820-uguq2lg07engs2a5739mfnvk1du1k58c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5jcRHAYp6GLZaAMFvGUL_TEWBO4LrhiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770477538820-uguq2lg07engs2a5739mfnvk1du1k58c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
